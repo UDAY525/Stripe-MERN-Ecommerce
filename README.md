@@ -47,10 +47,4 @@ Stripe is integrated for handling payments through cards. Users can pay securely
 After a successful payment, the user's purchase details are updated in the database, and a confirmation is sent to the user.
 
 ## Installation
-
-To install and run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/ecommerce-website.git
-](https://github.com/UDAY525/Stripe-MERN-Ecommerce.git)
+   git clone https://github.com/UDAY525/Stripe-MERN-Ecommerce.git
