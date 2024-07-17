@@ -1,0 +1,14 @@
+{
+    "json.schemas": [
+
+
+        {
+            "fileMatch": [
+                "/myfile"
+            ],
+            "url": "schemaURL",
+            "workbench.editor.showTabs": true,
+            "workbench.editor.enablePreview": true
+        }
+    ]
+}
